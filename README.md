@@ -1,4 +1,4 @@
-![width='400px'](https://i.redd.it/bpxxqqvps4h91.gif)
+
 
 
 
