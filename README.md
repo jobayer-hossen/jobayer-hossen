@@ -1,4 +1,4 @@
-![](https://i.redd.it/bpxxqqvps4h91.gif)
+![width='600px'](https://i.redd.it/bpxxqqvps4h91.gif)
 
 
 
