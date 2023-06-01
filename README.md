@@ -1,5 +1,5 @@
 
-![width='500'](https://i.redd.it/bpxxqqvps4h91.gif)
+![width='300'](https://i.redd.it/bpxxqqvps4h91.gif)
 
 
 
