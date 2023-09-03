@@ -26,7 +26,7 @@
 
 
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayer-hossen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /> </p>
+<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayer-hossen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /> </p>
   
 <p><img width="400" src="https://github-readme-stats.vercel.app/api?username=jobayer-hossen&show_icons=true&locale=en&theme=tokyonight" alt="jobayer-hossen" /></p>
 
