@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **jobayerhossen2903@gmail.com**
 
@@ -30,7 +30,7 @@
   
 <p><img width="400" src="https://github-readme-stats.vercel.app/api?username=jobayer-hossen&show_icons=true&locale=en&theme=tokyonight" alt="jobayer-hossen" /></p>
 
-<p><img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&&theme=tokyonight" alt="jobayerHossen" /></p>
+<p><img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&&theme=tokyonight" alt="jobayerHossen" /></p>
 
 
 
