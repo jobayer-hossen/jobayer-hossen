@@ -31,9 +31,9 @@
   
 <p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jobayer-hossen&show_icons=true&locale=en&theme=tokyonight" alt="jobayer-hossen" /></p>
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&&theme=tokyonight" alt="jobayerHossen" /></p>
+<p align="center" ><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&&theme=tokyonight" alt="jobayerHossen" /></p>
 
-<p align="center"> <img alt="Coding" width="600" src="https://i.pinimg.com/originals/50/1a/7a/501a7a4ad553fc0ba83a3a0e8551caf8.gif"/> </p>
+<p align="center"> <img alt="Coding" width="500" src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif"/> </p>
 
 
 
