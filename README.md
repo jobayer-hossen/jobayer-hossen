@@ -1,4 +1,4 @@
-<img alt="Coding" src="[https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif]">
+<img width="100%" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="cover" />
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Jobayer Hossen</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
