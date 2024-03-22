@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Jobayer Hossen</h1>
-<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif">
 
 
