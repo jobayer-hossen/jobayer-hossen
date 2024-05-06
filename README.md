@@ -32,7 +32,7 @@
 <p align="center" ><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer-hossen&theme=dracula" alt="jobayerHossen" /></p>
 
 
-<p align="center"> <img alt="Coding" width="700" src="https://raw.githubusercontent.com/sixfwa/sixfwa/main/pb.webp"/> </p>
+<p align="center"> <img alt="Coding" width="700" src="https:/"/> </p>
 
 
 
