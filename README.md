@@ -32,7 +32,7 @@
 <p align="center" ><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer-hossen&theme=dracula" alt="jobayerHossen" /></p>
 
 
-<p align="center"> <img alt="Coding" width="700" src="https:/"/> </p>
+<p align="center"> <a href="https://app.daily.dev/jobayerhossen"><img src="https://api.daily.dev/devcards/v2/2XZoSmMjTxsM0x5xAyLpi.png?r=vx3" width="356" alt="jobayer hossen's Dev Card"/></a> </p>
 
 
 
