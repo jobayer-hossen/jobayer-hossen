@@ -31,10 +31,7 @@
 
 <p align="center" ><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer-hossen&theme=dracula" alt="jobayerHossen" /></p>
 
-
-<p align="center"> <a href="https://app.daily.dev/jobayerhossen"><img src="https://api.daily.dev/devcards/v2/exB7vJ6wP2CRMHwGXosaw.png?type=wide&r=43t" width="652" alt="Jobayer Hossen's Dev Card"/></a> </p>
-
-
+<p align="center"> <a href="https://app.daily.dev/jobayerhossen"><img src="https://api.daily.dev/devcards/v2/exB7vJ6wP2CRMHwGXosaw.png?type=wide&r=43t" width="600" alt="Jobayer Hossen's Dev Card"/></a> </p>
 
 
 
