@@ -30,6 +30,18 @@
 <p align="center" ><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&&theme=tokyonight" alt="jobayerHossen" /></p>
 
 <p align="center" ><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer-hossen&theme=dracula" alt="jobayerHossen" /></p>
+<p align="center" >
+
+  <details>
+  <summary><h2> <img align="center" src="https://github.com/jobayer-hossen/jobayer-hossen/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=jobayer-hossen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-hossen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=jobayer-hossen&theme=tokyo-night)
+  </div>
+</details>
+</p>
 
 <p align="center"> <a href="https://app.daily.dev/jobayerhossen"><img src="https://api.daily.dev/devcards/v2/exB7vJ6wP2CRMHwGXosaw.png?type=wide&r=43t" width="600" alt="Jobayer Hossen's Dev Card"/></a> </p>
 
