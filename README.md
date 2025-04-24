@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/EMONHASAN00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jobayer-hossen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jobayer-hossen-213a961b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobayer-hossen" height="30" width="40" /></a>
-<a href="https://instagram.com/jobayer_hossen_emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jobayer-hossen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jobayer.hossen.emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jobayer-hossen" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayer-hossen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jobayer-hossen" /></p>
